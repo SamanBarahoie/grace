@@ -1,4 +1,4 @@
-markdown
+
 # GRACE: Graph-based Random Walk Autoencoder Compression for Embedding
 
 Welcome to the official repository for **GRACE**, a scalable framework for graph embedding introduced in the paper:
@@ -133,7 +133,7 @@ Visualizations of embeddings are generated using **t-SNE** during training.
 
 ### t-SNE Embedding Visualization
 
-![t-SNE Embedding](assets/tsne_embedding_example.png)
+![t-SNE Embedding](assets/embeding-phy.png)
 
 ---
 
