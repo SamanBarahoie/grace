@@ -1,4 +1,4 @@
-```markdown
+markdown
 # GRACE: Graph-based Random Walk Autoencoder Compression for Embedding
 
 Welcome to the official repository for **GRACE**, a scalable framework for graph embedding introduced in the paper:
