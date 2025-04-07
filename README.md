@@ -127,10 +127,6 @@ Visualizations of embeddings are generated using **t-SNE** during training.
 
 ## 🖼️ Visualizations
 
-### GRACE Framework Architecture
-
-![GRACE Framework](assets/grace_framework.png)
-
 ### t-SNE Embedding Visualization
 
 ![t-SNE Embedding](assets/embeding-phy.png)
